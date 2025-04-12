@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cyber Warrior | SOC Engineer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="terminal">
+    <h1>Hi, I’m <span class="username">Your Name</span></h1>
+    <p class="subtitle">SOC Engineer | Threat Hunter | Cybersecurity Analyst</p>
+
+    <div class="section">
+      <h2>About Me</h2>
+      <p>
+        I am a passionate Security Operations Center (SOC) Engineer with hands-on experience
+        in monitoring, analyzing, and mitigating threats. My work includes everything from
+        log monitoring and incident response to threat hunting and vulnerability assessments.
+        With a strong foundation in network defense and digital forensics, I thrive in
+        high-pressure environments where cybersecurity is critical.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Skills & Tools</h2>
+      <ul>
+        <li>SOC Core Functions: Log Monitoring, SIEM Management, Incident Response</li>
+        <li>Threat Hunting, Threat Intelligence, Malware Analysis</li>
+        <li>Vulnerability Scanning: Nessus, OpenVAS, Risk Assessment</li>
+        <li>Digital Forensics: Autopsy, FTK, Memory Dump Analysis</li>
+        <li>Ethical Hacking: Penetration Testing, Exploitation</li>
+        <li>Network Defense: IDS/IPS, Wireshark, Firewalls</li>
+        <li>Languages: Python, Bash, PowerShell</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Certifications</h2>
+      <ul>
+        <li>CompTIA Security+</li>
+        <li>Certified SOC Analyst (CSA)</li>
+        <li>Splunk Core Certified User</li>
+        <li>CEH – Certified Ethical Hacker</li>
+        <li>PNPT – Practical Network Penetration Tester</li>
+        <li>Google Cybersecurity Certificate</li>
+        <li>IBM Cybersecurity Analyst Certificate</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Projects</h2>
+      <ul>
+        <li>Threat Hunting Playbook with ELK Stack</li>
+        <li>Splunk Detection Rules Mapped to MITRE ATT&CK</li>
+        <li>Automated OpenVAS Vulnerability Reporting</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Contact</h2>
+      <p>Email: yourname@example.com</p>
+      <p>LinkedIn: linkedin.com/in/yourprofile</p>
+      <p>GitHub: github.com/yourusername</p>
+    </div>
+  </div>
+</body>
+</html>
